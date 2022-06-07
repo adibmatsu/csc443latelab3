@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
+<h1>hai sir</h1>
     <?php
     echo "hello world";
     ?>
