@@ -8,8 +8,15 @@
 </head>
 <body>
 <h1>hai sir</h1>
-    <?php
-    echo "hello world";
-    ?>
+<?php
+Susername = "Fred Smith"
+echo $username;
+echo "<br />";
+Scurrent_user = $username;
+echo $current_user;
+echo "<br />";
+Snuml = 10.5;
+echo Snuml;
+?>
 </body>
 </html>
